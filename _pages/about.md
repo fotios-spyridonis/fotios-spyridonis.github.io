@@ -15,7 +15,7 @@ My research investigates how AI-generated intelligence can be made accessible, u
 
 My long-term goal is to develop theories, methods, and technologies that enable people to effectively collaborate with increasingly intelligent systems.
 
-This research spans Human-AI Interaction, Accessible Intelligence, explainable AI, XR accessibility, human agency, trust, and inclusive AI.
+This research spans Human-AI Interaction, Accessible Intelligence, XR accessibility, and inclusive AI.
 
 ---
 
@@ -44,10 +44,7 @@ Developing methods and tools for evaluating accessibility in immersive technolog
 ### Research Interests
 
 - Human-AI Interaction
+- Human-centred AI
 - Accessible Intelligence
-- Explainable AI
-- AI Trust
-- Human Agency
 - XR Accessibility
-- Inclusive AI
-- AI Evaluation
+-Digital Accessibility and Inclusive Design
