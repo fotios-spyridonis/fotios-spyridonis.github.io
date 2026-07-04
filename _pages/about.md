@@ -6,52 +6,41 @@ author_profile: true
 
 <div class="hero-box">
 
-# Dr Fotis Spyridonis
+<h1>Dr Fotis Spyridonis</h1>
 
-### Human-AI Interaction · XR Accessibility · Accessible Intelligence
+<h3>Human-AI Interaction · XR Accessibility · Accessible Intelligence</h3>
 
-Designing inclusive intelligent systems that people can understand, trust, control, and benefit from.
+<p>Designing inclusive intelligent systems that people can understand, trust, control, and benefit from.</p>
 
-[Research](/research/){: .btn-custom } [Accessible Intelligence Initiative](/accessible-intelligence/){: .btn-custom } [Software](/software/){: .btn-custom }
+<p>
+<a class="btn-custom" href="/research/">Research</a>
+<a class="btn-custom" href="/accessible-intelligence/">Accessible Intelligence Initiative</a>
+<a class="btn-custom" href="/software/">Software</a>
+</p>
 
 </div>
 
-## Featured Research
+<h2>Featured Research</h2>
 
 <div class="card-grid">
 
 <div class="research-card">
-
-### Accessible Intelligence Initiative
-
-Making AI-generated intelligence accessible to people with diverse abilities, expertise, and contexts.
-
-[Learn more](/accessible-intelligence/)
-
+<h3>Accessible Intelligence Initiative</h3>
+<p>Making AI-generated intelligence accessible to people with diverse abilities, expertise, and contexts.</p>
 </div>
 
 <div class="research-card">
-
-### Human-AI Interaction
-
-Designing and evaluating AI systems that support human goals, agency, trust, and decision-making.
-
-[Research themes](/research/)
-
+<h3>Human-AI Interaction</h3>
+<p>Designing and evaluating AI systems that support human goals, agency, trust, and decision-making.</p>
 </div>
 
 <div class="research-card">
-
-### XR Accessibility
-
-Developing methods and tools for evaluating accessibility in immersive technologies.
-
-[Software and projects](/software/)
-
+<h3>XR Accessibility</h3>
+<p>Developing methods and tools for evaluating accessibility in immersive technologies.</p>
 </div>
 
 </div>
 
-## Research Interests
+<h2>Research Interests</h2>
 
-Human-AI Interaction · Accessible Intelligence · Human-centred AI · Immersive Technologies · Digital Accessibility and Inclusive Design
+<p>Human-AI Interaction · Accessible Intelligence · Human-centred AI · Explainable AI · AI Trust · Human Agency · XR Accessibility · Inclusive AI · AI Evaluation</p>
