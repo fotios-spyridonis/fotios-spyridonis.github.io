@@ -1,0 +1,62 @@
+/* Homepage visual refinements */
+
+.page__content {
+  font-size: 1.05rem;
+  line-height: 1.75;
+}
+
+.page__content h1 {
+  font-size: 2.7rem;
+  line-height: 1.15;
+  margin-bottom: 1rem;
+  color: #102a43;
+}
+
+.page__content h2 {
+  margin-top: 2.5rem;
+  color: #102a43;
+}
+
+.page__content h3 {
+  color: #0f4c5c;
+  margin-top: 1.8rem;
+}
+
+.page__content a {
+  color: #0f6f78;
+  font-weight: 600;
+}
+
+.page__content a:hover {
+  color: #0a4f55;
+}
+
+.page__content hr {
+  margin: 2.5rem 0;
+  border: 0;
+  border-top: 1px solid #e5e7eb;
+}
+
+/* Make homepage links look more intentional */
+.page__content p a {
+  display: inline-block;
+  margin-right: 0.4rem;
+}
+
+/* Research sections */
+.page__content h3 + p {
+  background: #f8fafc;
+  border-left: 4px solid #0f6f78;
+  padding: 1rem 1.2rem;
+  border-radius: 6px;
+}
+
+/* Sidebar */
+.author__name {
+  color: #102a43;
+}
+
+.author__bio {
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
