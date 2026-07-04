@@ -26,7 +26,8 @@ author_profile: true
 
 <div class="research-card">
 <h3>Accessible Intelligence Initiative</h3>
-<p>Making AI-generated intelligence accessible to people with diverse abilities, expertise, and contexts. _More to follow_ </p>
+<p>Making AI-generated intelligence accessible to people with diverse abilities, expertise, and contexts.</p>
+  <p font-style: italic>More to follow...</p>
 </div>
 
 <div class="research-card">
