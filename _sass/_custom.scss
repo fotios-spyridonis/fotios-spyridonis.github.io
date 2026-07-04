@@ -1,62 +1,75 @@
-/* Homepage visual refinements */
-
-.page__content {
-  font-size: 1.05rem;
-  line-height: 1.75;
+.hero-box {
+  background: #f8fafc;
+  border: 1px solid #e5e7eb;
+  border-left: 6px solid #1f7a8c;
+  padding: 2.2rem;
+  margin-bottom: 2.5rem;
+  border-radius: 12px;
 }
 
-.page__content h1 {
-  font-size: 2.7rem;
-  line-height: 1.15;
-  margin-bottom: 1rem;
-  color: #102a43;
+.hero-box h1 {
+  color: #12355b;
+  font-size: 2.6rem;
+  margin-bottom: 0.4rem;
 }
 
-.page__content h2 {
-  margin-top: 2.5rem;
-  color: #102a43;
+.hero-box h3 {
+  color: #1f7a8c;
+  font-weight: 500;
+  margin-top: 0;
 }
 
-.page__content h3 {
-  color: #0f4c5c;
-  margin-top: 1.8rem;
+.hero-box p {
+  font-size: 1.15rem;
+  line-height: 1.7;
 }
 
-.page__content a {
-  color: #0f6f78;
+.btn-custom {
+  display: inline-block;
+  margin: 0.5rem 0.4rem 0.2rem 0;
+  padding: 0.65rem 1rem;
+  border-radius: 6px;
+  background: #12355b;
+  color: #ffffff !important;
+  text-decoration: none;
   font-weight: 600;
 }
 
-.page__content a:hover {
-  color: #0a4f55;
+.btn-custom:hover {
+  background: #1f7a8c;
+  color: #ffffff !important;
 }
 
-.page__content hr {
-  margin: 2.5rem 0;
-  border: 0;
-  border-top: 1px solid #e5e7eb;
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+  gap: 1.2rem;
+  margin: 1.5rem 0 2.2rem 0;
 }
 
-/* Make homepage links look more intentional */
-.page__content p a {
-  display: inline-block;
-  margin-right: 0.4rem;
+.research-card {
+  background: #ffffff;
+  border: 1px solid #e5e7eb;
+  border-top: 4px solid #1f7a8c;
+  border-radius: 10px;
+  padding: 1.2rem;
+  box-shadow: 0 3px 10px rgba(0,0,0,0.05);
 }
 
-/* Research sections */
-.page__content h3 + p {
-  background: #f8fafc;
-  border-left: 4px solid #0f6f78;
-  padding: 1rem 1.2rem;
-  border-radius: 6px;
+.research-card h3 {
+  margin-top: 0;
+  color: #12355b;
 }
 
-/* Sidebar */
-.author__name {
-  color: #102a43;
+.research-card p {
+  line-height: 1.6;
 }
 
-.author__bio {
-  font-size: 0.9rem;
-  line-height: 1.55;
+.page__content h2 {
+  color: #12355b;
+  margin-top: 2rem;
+}
+
+.page__content a {
+  color: #1f7a8c;
 }
