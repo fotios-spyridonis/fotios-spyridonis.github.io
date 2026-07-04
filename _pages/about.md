@@ -26,7 +26,7 @@ author_profile: true
 
 <div class="research-card">
 <h3>Accessible Intelligence Initiative</h3>
-<p>Making AI-generated intelligence accessible to people with diverse abilities, expertise, and contexts.</p>
+<p>Making AI-generated intelligence accessible to people with diverse abilities, expertise, and contexts. _More to follow_ </p>
 </div>
 
 <div class="research-card">
@@ -43,4 +43,4 @@ author_profile: true
 
 <h2>Research Interests</h2>
 
-<p>Human-AI Interaction · Accessible Intelligence · Human-centred AI · Explainable AI · AI Trust · Human Agency · XR Accessibility · Inclusive AI · AI Evaluation</p>
+<p>Human-AI Interaction · Accessible Intelligence · Human-centred AI · Immersive Technologies · Digital Accessibility and Inclusive Design </p>
