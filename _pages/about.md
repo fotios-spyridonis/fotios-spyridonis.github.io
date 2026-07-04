@@ -47,4 +47,4 @@ Developing methods and tools for evaluating accessibility in immersive technolog
 - Human-centred AI
 - Accessible Intelligence
 - XR Accessibility
--Digital Accessibility and Inclusive Design
+- Digital Accessibility and Inclusive Design
