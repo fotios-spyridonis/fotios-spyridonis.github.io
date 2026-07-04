@@ -3,37 +3,27 @@ permalink: /
 title: " "
 author_profile: true
 ---
-# Human-AI Interaction • Accessible Intelligence • XR Accessibility
+# Making intelligence systems accessible, understandable, and beneficial
 
-Artificial intelligence is changing how people access knowledge, make decisions, and interact with technology.
+I am a Senior Lecturer in Computer Science at Brunel University London. My research focuses on designing inclusive intelligent technologies at the intersection of Human-Computer Interaction (HCI), Human-centred AI, accessibility, and immersive technologies.
 
-My research investigates how AI-generated intelligence can be made accessible, understandable, trustworthy, and beneficial for people with diverse abilities, expertise, and contexts.
+My work investigates how people can effectively access, understand, evaluate, supervise, and benefit from increasingly intelligent systems.
 
----
-
-## Research Vision
-
-My long-term goal is to develop theories, methods, and technologies that enable people to effectively collaborate with increasingly intelligent systems.
-
-This research spans Human-AI Interaction, Accessible Intelligence, XR accessibility, and inclusive AI.
+[Accessible Intelligence Initiative](/accessible-intelligence/) · [Research](/research/) · [Publications](/publications/) · [Teaching](/teaching/)
 
 ---
 
-## Featured Research
+## Research Focus
 
 ### Accessible Intelligence Initiative
 
-Developing a new research programme focused on making AI-generated intelligence accessible to everyone.
+A research programme exploring how AI-generated intelligence can be made accessible, understandable, controllable, and beneficial for people with diverse abilities, expertise, and contexts.
 
-**Status:** In development
-
----
+[Learn more](/accessible-intelligence/)
 
 ### Human-AI Interaction
 
-Understanding how people interact with intelligent systems and designing AI that supports human goals, agency, and decision-making.
-
----
+Designing and evaluating AI systems that support human goals, agency, trust, and decision-making.
 
 ### XR Accessibility
 
@@ -41,10 +31,6 @@ Developing methods and tools for evaluating accessibility in immersive technolog
 
 ---
 
-### Research Interests
+## Research Interests
 
-- Human-AI Interaction
-- Human-centred AI
-- Accessible Intelligence
-- XR Accessibility
-- Digital Accessibility and Inclusive Design
+Human-AI Interaction · Human-centred AI · Immersive Technologies · Accessible Intelligence · Digital Accessibility and Inclusive Design
