@@ -24,13 +24,13 @@ repository               : "fotios-spyridonis/fotios-spyridonis.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Dr Fotis Spyridonis"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Senior Lecturer in Computer Science. Researching Human-AI Interaction, Accessible Intelligence, XR accessibility, and inclusive intelligent systems."
+  location         : "London, UK"
+  employer         : "Brunel University of London"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "fotis [dot] spyridonis [at] brunel [dot] ac [dot] uk"
 
   # Academic websites
   academia         : # URL
