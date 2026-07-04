@@ -3,34 +3,60 @@ permalink: /
 title: " "
 author_profile: true
 ---
-# Making intelligence systems accessible, understandable, and beneficial
-
-I am a Senior Lecturer in Computer Science at Brunel University London. My research focuses on designing inclusive intelligent technologies at the intersection of Human-Computer Interaction (HCI), Human-centred AI, accessibility, and immersive technologies.
-
-My work investigates how people can effectively access, understand, evaluate, supervise, and benefit from increasingly intelligent systems.
-
-[Accessible Intelligence Initiative](/accessible-intelligence/) · [Research](/research/) · [Publications](/publications/) · [Teaching](/teaching/)
-
+---
+permalink: /
+title: ""
+author_profile: true
 ---
 
-## Research Focus
+<div class="hero-box">
+
+# Dr Fotis Spyridonis
+
+### Human-AI Interaction · XR Accessibility · Accessible Intelligence
+
+Designing inclusive intelligent systems that people can understand, trust, control, and benefit from.
+
+[Research](/research/){: .btn-custom } [Accessible Intelligence Initiative](/accessible-intelligence/){: .btn-custom } [Software](/software/){: .btn-custom }
+
+</div>
+
+## Featured Research
+
+<div class="card-grid">
+
+<div class="research-card">
 
 ### Accessible Intelligence Initiative
 
-A research programme exploring how AI-generated intelligence can be made accessible, understandable, controllable, and beneficial for people with diverse abilities, expertise, and contexts.
+Making AI-generated intelligence accessible to people with diverse abilities, expertise, and contexts.
 
 [Learn more](/accessible-intelligence/)
+
+</div>
+
+<div class="research-card">
 
 ### Human-AI Interaction
 
 Designing and evaluating AI systems that support human goals, agency, trust, and decision-making.
 
+[Research themes](/research/)
+
+</div>
+
+<div class="research-card">
+
 ### XR Accessibility
 
 Developing methods and tools for evaluating accessibility in immersive technologies.
 
----
+[Software and projects](/software/)
+
+</div>
+
+</div>
 
 ## Research Interests
 
-Human-AI Interaction · Human-centred AI · Immersive Technologies · Accessible Intelligence · Digital Accessibility and Inclusive Design
+Human-AI Interaction · Accessible Intelligence · Human-centred AI · Immersive Technologies · Digital Accessibility and Inclusive Design
