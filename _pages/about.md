@@ -1,10 +1,5 @@
 ---
 permalink: /
-title: " "
-author_profile: true
----
----
-permalink: /
 title: ""
 author_profile: true
 ---
