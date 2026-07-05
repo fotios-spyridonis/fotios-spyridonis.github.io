@@ -4,19 +4,13 @@ permalink: /research/
 author_profile: true
 ---
 
-# Research
-
-My research investigates how artificial intelligence can become more accessible, trustworthy, explainable, and beneficial for people.
-
-Rather than focusing solely on improving AI capabilities, I examine how humans interact with intelligent systems and how those systems should be designed to support human understanding, agency, and inclusion.
+My work and research investigates how emerging technologies can be designed to be accessible, inclusive, and meaningful for diverse users. Situated at the intersection of Human-Computer Interaction (HCI), Human-centred Artificial Intelligence (HCAI), accessibility, and immersive technologies, my work seeks to enable diverse people to effectively understand, control, and benefit from next-generation interactive systems, following a simple philosophy: "Understand people. Design better technologies. Influence future practice."
 
 ---
 
 # Research Vision
 
-Artificial intelligence is rapidly becoming embedded in everyday life, yet many people struggle to understand, supervise, or effectively benefit from increasingly capable systems.
-
-My long-term vision is to develop theories, methods, and technologies that enable AI-generated intelligence to be genuinely accessible to diverse people across healthcare, education, immersive technologies, public services, and everyday decision-making.
+My long-term vision is to shape the future of human interaction with intelligent and immersive technologies by developing theories, methods, and open technologies that enable people to effectively understand, trust, control, and benefit from increasingly capable digital systems.
 
 ---
 
@@ -30,32 +24,25 @@ Developing frameworks, methods, and technologies that make AI-generated intellig
 
 ## Human-AI Interaction
 
-Understanding how people collaborate with intelligent systems and designing interfaces that support trust, human agency, and effective decision-making.
+Designing intelligent systems that support human understanding, agency, trust, and collaboration.
 
 ---
 
-## XR Accessibility
+## Immersive Technologies
 
-Developing tools and evaluation methods that improve accessibility within virtual, augmented, and mixed reality.
-
----
-
-## Explainable and Trustworthy AI
-
-Investigating explanation design, transparency, human trust, and responsible supervision of intelligent systems.
+Advancing virtual, augmented, and mixed reality through accessible, human-centred, and inclusive design.
 
 ---
 
-## Inclusive AI
+## Digital Accessibility and Inclusive Computing
 
-Designing AI technologies that accommodate diverse abilities, expertise, and contexts of use.
+Creating interactive systems that accommodate diverse abilities, contexts, and ways of interacting.
 
 ---
 
 # Current Projects
 
-- Accessible Intelligence Initiative
-- XR Accessibility Toolkit
+- Accessible Intelligence Initiative (more to follow)
+- XR Accessibility
+- AI-enabled accessible content generation
 - Human-AI Interaction
-- Explainable AI
-- AI Trust Evaluation
