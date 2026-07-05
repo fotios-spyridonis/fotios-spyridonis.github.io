@@ -40,6 +40,12 @@ Creating interactive systems that accommodate diverse abilities, contexts, and w
 
 ---
 
+## Intelligent Interactive Systems
+
+Designing intelligent interactive systems that enhance human capabilities through AI, immersive technologies, and inclusive design
+
+---
+
 # Current Projects
 
 - Accessible Intelligence Initiative (more to follow)
