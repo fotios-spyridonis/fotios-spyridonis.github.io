@@ -8,13 +8,13 @@ author_profile: true
 
 <h1>Dr Fotis Spyridonis</h1>
 
-<h3>Human-AI Interaction · XR Accessibility · Accessible Intelligence</h3>
+<h3>Human-AI Interaction · Immersive Technologies · Accessible Intelligence</h3>
 
 <p>Designing inclusive intelligent systems that people can understand, trust, control, and benefit from.</p>
 
 <p>
 <a class="btn-custom" href="/research/">Research</a>
-<a class="btn-custom" href="/accessible-intelligence/">Accessible Intelligence Initiative</a>
+<a class="btn-custom" href="/accessible-intelligence/">Publications</a>
 <a class="btn-custom" href="/software/">Software</a>
 </p>
 
@@ -36,7 +36,7 @@ author_profile: true
 </div>
 
 <div class="research-card">
-<h3>XR Accessibility</h3>
+<h3>Immersive Technologies</h3>
 <p>Developing methods and tools for evaluating accessibility in immersive technologies.</p>
 </div>
 
