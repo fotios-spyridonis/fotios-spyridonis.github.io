@@ -10,7 +10,7 @@ My work and research investigates how emerging technologies can be designed to b
 
 # Research Vision
 
-My long-term vision is to shape the future of human interaction with intelligent and immersive technologies by developing theories, methods, and open technologies that enable people to effectively understand, trust, control, and benefit from increasingly capable digital systems.
+My research explores how people interact with intelligent and immersive technologies. I develop theories, methods, and open technologies that enable AI systems and immersive environments to become more accessible, trustworthy, explainable, and beneficial for diverse users. Through interdisciplinary research spanning Human-AI Interaction, extended reality (XR), accessibility, and intelligent interactive systems, I aim to shape the next generation of human-centred digital experiences.
 
 ---
 
