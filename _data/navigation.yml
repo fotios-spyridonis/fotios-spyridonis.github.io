@@ -11,7 +11,7 @@ main:
   - title: "Research"
     url: /research/
 
-  - title: "Software"
+  - title: "Research software"
     url: /software/    
 
   - title: "Publications"
@@ -23,3 +23,5 @@ main:
   - title: "Opportunities"
     url: /opportunities/
 
+  - title: "About"
+    url: /about/
