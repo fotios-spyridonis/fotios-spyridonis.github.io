@@ -19,7 +19,7 @@ author_profile: true
 
 </div>
 
-<h2>Research Focus</h2>
+<h2>Current Research Focus</h2>
 
 <div class="card-grid">
 
