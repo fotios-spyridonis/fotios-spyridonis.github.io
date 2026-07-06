@@ -199,3 +199,8 @@
   display: block;
   border-radius: 50%;
 }
+
+/* Hide broken Academic Pages avatar area */
+.author__avatar {
+  display: none !important;
+}
