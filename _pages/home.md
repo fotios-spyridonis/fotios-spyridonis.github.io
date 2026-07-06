@@ -5,7 +5,7 @@ author_profile: true
 ---
 <div class="hero-box">
 
-<h1>Dr Fotis Liarokapis</h1>
+<h1>Dr Fotis Spyridonis</h1>
 
 <h3>Human-AI Interaction · Accessible Intelligence · Immersive Technologies</h3>
 
@@ -42,4 +42,4 @@ author_profile: true
 
 <h2>Research Interests</h2>
 
-<p>Human-AI Interaction · Accessible Intelligence · Extended Reality · XR Accessibility · Explainable AI · AI Trust · Human Agency · Inclusive Computing · Intelligent Interactive Systems</p>
+<p>Human-AI Interaction · Accessible Intelligence · Immersive Technologies · Intelligent Interactive Systems</p>
