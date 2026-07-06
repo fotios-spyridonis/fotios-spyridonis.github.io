@@ -35,6 +35,6 @@ I am interested in establishing collaborations with researchers, universities, p
 
 ---
 
-# Contact
+# Get in touch
 
 If your interests align with my research, I would be pleased to hear from you. Please feel free to get in touch to discuss potential opportunities for collaboration.
