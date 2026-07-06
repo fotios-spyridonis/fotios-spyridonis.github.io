@@ -35,17 +35,6 @@ I am interested in establishing collaborations with researchers, universities, p
 
 ---
 
-# Current Opportunities
-
-I am currently open to enquiries regarding:
-
-- PhD supervision
-- Academic collaborations
-- Visiting researchers
-- Industry partnerships
-- Joint funding applications
----
-
 # Contact
 
 If your interests align with my research, I would be pleased to hear from you. Please feel free to get in touch to discuss potential opportunities for collaboration.
