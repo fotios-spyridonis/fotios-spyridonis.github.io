@@ -4,51 +4,63 @@ permalink: /research/
 author_profile: true
 ---
 
-My work and research investigates how emerging technologies can be designed to be accessible, inclusive, and meaningful for diverse users. Situated at the intersection of Human-Computer Interaction (HCI), Human-centred Artificial Intelligence (HCAI), accessibility, and immersive technologies, my work seeks to enable diverse people to effectively understand, control, and benefit from next-generation interactive systems, following a simple philosophy: "Understand people. Design better technologies. Influence future practice."
+<div class="hero-box">
 
----
+<h1>Research</h1>
 
-# Research Vision
+<h3>Human-AI Interaction · Accessible Intelligence · Immersive Technologies</h3>
 
-My research explores how people interact with intelligent and immersive technologies. I develop theories, methods, and open technologies that enable AI systems and immersive environments to become more accessible, trustworthy, explainable, and beneficial for diverse users. Through interdisciplinary research spanning Human-AI Interaction, extended reality (XR), accessibility, and intelligent interactive systems, I aim to shape the next generation of human-centred digital experiences.
+<p>My research explores how people interact with intelligent and immersive technologies, with the goal of designing systems that are accessible, trustworthy, explainable, and centred on human needs.</p>
 
----
+</div>
 
-# Current Research Themes
+<h2>Research Vision</h2>
 
-## Accessible Intelligence
+<p>My long-term vision is to shape the future of human interaction with intelligent and immersive technologies by developing theories, methods, and open technologies that enable people to effectively understand, trust, control, and benefit from increasingly capable digital systems.</p>
 
-Developing frameworks, methods, and technologies that make AI-generated intelligence understandable, controllable, and beneficial for diverse users.
+<h2>Research Themes</h2>
 
----
+<div class="card-grid">
 
-## Human-AI Interaction
+<div class="research-card">
+<h3>Human-AI Interaction</h3>
+<p>Designing and evaluating AI systems that support human goals, agency, trust, supervision, and decision-making.</p>
+</div>
 
-Designing intelligent systems that support human understanding, agency, trust, and collaboration.
+<div class="research-card">
+<h3>Accessible Intelligence</h3>
+<p>Developing frameworks, methods, and technologies that make AI-generated intelligence accessible and beneficial to diverse users.</p>
+</div>
 
----
+<div class="research-card">
+<h3>Immersive Technologies</h3>
+<p>Advancing accessible and human-centred virtual, augmented, and mixed reality systems.</p>
+</div>
 
-## Immersive Technologies
+<div class="research-card">
+<h3>Accessibility & Inclusive Computing</h3>
+<p>Creating interactive systems that accommodate diverse abilities, contexts, needs, and forms of expertise.</p>
+</div>
 
-Advancing virtual, augmented, and mixed reality through accessible, human-centred, and inclusive design.
+<div class="research-card">
+<h3>Explainable & Trustworthy AI</h3>
+<p>Investigating transparency, explanation design, calibrated trust, human agency, and responsible AI interaction.</p>
+</div>
 
----
+<div class="research-card">
+<h3>Intelligent Interactive Systems</h3>
+<p>Bringing together AI, immersive technologies, and accessibility to create systems people can understand, trust, and benefit from.</p>
+</div>
 
-## Digital Accessibility and Inclusive Computing
+</div>
 
-Creating interactive systems that accommodate diverse abilities, contexts, and ways of interacting.
+<h2>Current Projects</h2>
 
----
-
-## Intelligent Interactive Systems
-
-Designing intelligent interactive systems that enhance human capabilities through AI, immersive technologies, and inclusive design
-
----
-
-# Current Projects
-
-- Accessible Intelligence Initiative (more to follow)
-- XR Accessibility
-- AI-enabled accessible content generation
-- Human-AI Interaction
+<ul>
+<li>Accessible Intelligence Initiative</li>
+<li>XR Accessibility Toolkit</li>
+<li>Human-AI Interaction and AI evaluation</li>
+<li>Agentic AI supervision and human agency</li>
+<li>Explainable and trustworthy AI</li>
+<li>Accessibility in immersive technologies</li>
+</ul>
