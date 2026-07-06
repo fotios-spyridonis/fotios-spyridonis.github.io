@@ -6,7 +6,7 @@ author_profile: true
 
 <div class="hero-box">
 
-<h1>Publications</h1>
+<h1>Featured Publications</h1>
 
 <h3>Human-AI Interaction · Accessibility · Immersive Technologies</h3>
 
@@ -30,7 +30,7 @@ author_profile: true
 
 <div class="publication-card">
 <h3>Accessibility as Lived Experience: Understanding Low Vision Across Physical, Digital, and Emerging Interaction Contexts through ECAM-VI</h3>
-<p class="pub-meta"><strong>In preparation / under review</strong></p>
+<p class="pub-meta"><strong>International Journal of Human-Computer Interaction</strong> · 2026</p>
 <p>Research examining low vision as lived experience across physical, digital, and emerging interaction contexts.</p>
 </div>
 
