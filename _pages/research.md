@@ -10,7 +10,7 @@ author_profile: true
 
 <h3>Human-AI Interaction · Accessible Intelligence · Immersive Technologies</h3>
 
-<p>My research explores how people interact with intelligent and immersive technologies, with the goal of designing systems that are accessible, trustworthy, explainable, and centred on human needs.</p>
+<p>My research explores how people interact with intelligent and immersive technologies, with the goal of designing systems that are accessible and centred on human needs.</p>
 
 </div>
 
@@ -43,11 +43,6 @@ author_profile: true
 </div>
 
 <div class="research-card">
-<h3>Explainable & Trustworthy AI</h3>
-<p>Investigating transparency, explanation design, calibrated trust, human agency, and responsible AI interaction.</p>
-</div>
-
-<div class="research-card">
 <h3>Intelligent Interactive Systems</h3>
 <p>Bringing together AI, immersive technologies, and accessibility to create systems people can understand, trust, and benefit from.</p>
 </div>
@@ -59,8 +54,6 @@ author_profile: true
 <ul>
 <li>Accessible Intelligence Initiative</li>
 <li>XR Accessibility Toolkit</li>
-<li>Human-AI Interaction and AI evaluation</li>
-<li>Agentic AI supervision and human agency</li>
-<li>Explainable and trustworthy AI</li>
+<li>Human-AI Interaction and evaluation</li>
 <li>Accessibility in immersive technologies</li>
 </ul>
