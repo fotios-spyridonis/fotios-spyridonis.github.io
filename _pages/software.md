@@ -4,81 +4,68 @@ permalink: /software/
 author_profile: true
 ---
 
-Research software is a core part of my research programme. Alongside scholarly publications, I develop open-source tools, frameworks, datasets, and developer resources that support reproducible research and accelerate innovation in Human-AI Interaction, immersive technologies, accessibility, and artificial intelligence.
+<div class="hero-box">
 
-My long-term goal is to build a research infrastructure that enables researchers, developers, educators, and industry to design more accessible and human-centred intelligent systems.
+<h1>Research Software</h1>
 
----
+<h3>Open tools · Frameworks · Research infrastructure</h3>
 
-# Featured Projects
+<p>I develop research software, frameworks, datasets, and developer resources that support Human-AI Interaction, immersive technologies, accessibility, and intelligent interactive systems.</p>
 
----
+</div>
 
-## XR Accessibility Toolkit
+<h2>Featured Projects</h2>
 
-**Type:** Unity Toolkit
+<div class="card-grid">
 
-**Status:** In Active Development
+<div class="research-card">
+<h3>XR Accessibility Toolkit</h3>
+<p><strong>Type:</strong> Unity Toolkit</p>
+<p><strong>Status:</strong> In active development</p>
+<p>A toolkit for evaluating accessibility in virtual, augmented, and mixed reality applications through visual impairment simulation, AI-assisted analysis, automated reporting, and developer guidance.</p>
+</div>
 
-A developer toolkit for evaluating accessibility in virtual, augmented, and mixed reality applications. The toolkit combines automated accessibility evaluation, visual impairment simulation, AI-assisted scene analysis, and developer guidance to support accessibility-aware XR development.
+<div class="research-card">
+<h3>Accessible Intelligence Framework</h3>
+<p><strong>Type:</strong> Research Framework</p>
+<p><strong>Status:</strong> In development</p>
+<p>A framework investigating how AI-generated intelligence can become accessible, understandable, controllable, and beneficial for diverse users (More to follow...)</p>
+</div>
 
-**Planned Features**
+<div class="research-card">
+<h3>Human-AI Interaction Resources</h3>
+<p><strong>Type:</strong> Research Tools</p>
+<p><strong>Status:</strong> Planned</p>
+<p>Software prototypes, evaluation tools, datasets, and educational resources supporting Human-AI Interaction research.</p>
+</div>
 
-- Visual impairment simulation
-- Accessibility evaluation framework
-- AI-assisted accessibility analysis
-- Automated reporting
-- Unity package
-- Developer documentation
+</div>
 
-**Related Research**
+<h2>Project Portfolio</h2>
 
-Human-Centred XR • Accessibility • Immersive Technologies
+<table>
+<tr>
+<th>Project</th>
+<th>Category</th>
+<th>Status</th>
+</tr>
+<tr>
+<td>XR Accessibility Toolkit</td>
+<td>Unity Toolkit</td>
+<td>In Development</td>
+</tr>
+<tr>
+<td>Accessible Intelligence Framework</td>
+<td>Research Framework</td>
+<td>In Development</td>
+</tr>
+<tr>
+<td>Human-AI Interaction Resources</td>
+<td>Research Tools</td>
+<td>Planned</td>
+</tr>
+</table>
 
----
+<h2>Open Science</h2>
 
-## Accessible Intelligence Initiative
-
-**Type:** Research Framework
-
-**Status:** Research Programme
-
-A long-term research programme investigating how AI-generated intelligence can become accessible, understandable, controllable, and beneficial for diverse users. The initiative will produce frameworks, evaluation methods, developer resources, educational materials, and open-source implementations supporting Human-AI Interaction and accessible AI.
-
-**Planned Outputs**
-
-- Accessible Intelligence Framework
-- Design guidelines
-- Evaluation toolkit
-- Example implementations
-- Educational resources
-
-**Related Research**
-
-Human-AI Interaction • Intelligent Interactive Systems • Digital Accessibility and Inclusive Computing 
-
----
-
-# Project Portfolio
-
-| Project | Category | Status |
-|----------|----------|--------|
-| XR Accessibility Toolkit | Unity Toolkit | In Development |
-| Accessible Intelligence Framework | Research Framework | In Development |
-
----
-
-# Open Science
-
-Where appropriate, software, datasets, and documentation are released under open licences to encourage transparency, reproducibility, collaboration, and community engagement.
-
-Research outputs will typically include:
-
-- Open-source software and datasets
-- Frameworks
-- Unity packages
-- Documentation
-- Tutorials
-- Demonstration applications
-
----
+<p>Where appropriate, software, datasets, and documentation are released under open licences to encourage transparency, reproducibility, collaboration, and community engagement.</p>
