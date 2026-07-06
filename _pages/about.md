@@ -50,10 +50,6 @@ JMIR Serious Games</p>
 
 <p>My research combines theory, human-centred design, controlled experimentation, and open science. Rather than developing technology for its own sake, I seek to understand how intelligent and immersive systems can better support human capabilities through accessibility, transparency, trust, and effective interaction. I believe technology should enhance human capability rather than simply increase machine capability. Intelligent systems should be designed to work with people, not around them, enabling individuals with diverse abilities, expertise, and goals to understand, trust, supervise, and ultimately benefit from increasingly capable digital technologies.</p>
 
-
-
-</div>
-
 <h2>Working Together</h2>
 
 <p>I welcome opportunities to collaborate with researchers, students, industry partners, funding organisations, and public sector bodies who share an interest in advancing human-centred intelligent and immersive technologies.</p>
