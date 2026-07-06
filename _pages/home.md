@@ -3,32 +3,25 @@ permalink: /
 title: ""
 author_profile: true
 ---
-
 <div class="hero-box">
 
-<h1>Dr Fotis Spyridonis</h1>
+<h1>Dr Fotis Liarokapis</h1>
 
-<h3>Human-AI Interaction · Immersive Technologies · Accessible Intelligence</h3>
+<h3>Human-AI Interaction · Accessible Intelligence · Immersive Technologies</h3>
 
-<p>Designing inclusive intelligent systems that people can understand, trust, control, and benefit from.</p>
+<p>I design and evaluate intelligent and immersive technologies that people can understand, trust, control, and benefit from.</p>
 
 <p>
 <a class="btn-custom" href="/research/">Research</a>
-<a class="btn-custom" href="/accessible-intelligence/">Publications</a>
-<a class="btn-custom" href="/software/">Software</a>
+<a class="btn-custom" href="/software/">Research Software</a>
+<a class="btn-custom" href="/opportunities/">Opportunities</a>
 </p>
 
 </div>
 
-<h2>Featured Research</h2>
+<h2>Research Focus</h2>
 
 <div class="card-grid">
-
-<div class="research-card">
-<h3>Accessible Intelligence Initiative</h3>
-<p>Making AI-generated intelligence accessible to people with diverse abilities, expertise, and contexts.</p>
-  <p> More to follow...</p>
-</div>
 
 <div class="research-card">
 <h3>Human-AI Interaction</h3>
@@ -36,12 +29,17 @@ author_profile: true
 </div>
 
 <div class="research-card">
+<h3>Accessible Intelligence</h3>
+<p>Making AI-generated intelligence accessible, understandable, controllable, and beneficial for diverse users.</p>
+</div>
+
+<div class="research-card">
 <h3>Immersive Technologies</h3>
-<p>Developing methods and tools for evaluating accessibility in immersive technologies.</p>
+<p>Developing accessible and inclusive virtual, augmented, and mixed reality experiences.</p>
 </div>
 
 </div>
 
 <h2>Research Interests</h2>
 
-<p>Human-AI Interaction · Accessible Intelligence · Human-centred AI · Immersive Technologies · Digital Accessibility and Inclusive Design </p>
+<p>Human-AI Interaction · Accessible Intelligence · Extended Reality · XR Accessibility · Explainable AI · AI Trust · Human Agency · Inclusive Computing · Intelligent Interactive Systems</p>
