@@ -70,11 +70,18 @@ author_profile: true
 
 <div class="publication-card">
 <h3>Guidelines for Conducting Biofeedback-Enhanced QoE Studies in Mulsemedia-Enhanced Virtual Reality</h3>
-<p class="pub-meta"><strong>WebMedia</strong> · 2023</p>
+<p class="pub-meta"><strong>Proceedings of the 29th Brazilian Symposium on Multimedia and the Web</strong> · 2023</p>
 <p>Guidelines for conducting biofeedback-enhanced quality-of-experience studies in virtual reality.</p>
 </div>
 
-<h2>Serious Games & Interactive Systems</h2>
+<div class="publication-card">
+<h3>Virtually Secure: A Taxonomic Assessment of Cybersecurity Challenges in Virtual Reality Environments</h3>
+<p class="pub-meta">
+<strong>Computers &amp; Security</strong> · 2023</p>
+<p> Provides a comprehensive taxonomy of cybersecurity threats and vulnerabilities in virtual reality environments, highlighting security as a critical dimension of future immersive technologies.</p>
+</div>
+
+<h2>Interactive Systems & Serious Games</h2>
 
 <div class="publication-card">
 <h3>A Framework and Serious Game for Decision Making in Stressful Situations: A Fire Evacuation Scenario</h3>
