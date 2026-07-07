@@ -11,8 +11,8 @@ locale                   : "en-UK"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Dr Fotis Spyridonis"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Human-AI Interaction • Human-centred AI • Accessible Intelligence • XR Accessibility"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Dr Fotios Spyridonis"
+description              : &description "Senior Lecturer (Associate Professor) in Computer Science at Brunel University of London. Research in Human-AI Interaction, Accessible Intelligence, accessibility, immersive technologies, and intelligent interactive systems."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://fotios-spyridonis.com # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.jpg"
   name             : "Dr Fotis Spyridonis"
   pronouns         : # example: "she/her"  
-  bio              : "Senior Lecturer in Computer Science. Researching Human-AI Interaction, Accessible Intelligence, and Immersive Technologies."
+  bio              : "Senior Lecturer (Associate Professor) in Computer Science. Researching Human-AI Interaction, Accessible Intelligence, and Immersive Technologies."
   location         : "London, UK"
   employer         : "Brunel University of London"
   uri              : # URL
