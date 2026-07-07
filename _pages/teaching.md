@@ -24,8 +24,8 @@ author_profile: true
 • Advanced Topics in Computer Science and Business Computing
 • Level 5 Group Project
 • Final Year Project
-• MSc Dissertation supervisor
-• Placement year tutor<br>
+• MSc Dissertation
+• Work Placement<br>
 </p>
 
 </div>
