@@ -20,11 +20,11 @@ author_profile: true
 <div class="research-card">
 
 <p>
-• Human-AI Interaction<br>
-• Advanced Topics in Computer Science and Business Computing<br>
-• Level 5 Group Project<br>
-• Final Year Project<br>
-• MSc Dissertation supervisor<br>
+• Human-AI Interaction
+• Advanced Topics in Computer Science and Business Computing
+• Level 5 Group Project
+• Final Year Project
+• MSc Dissertation supervisor
 • Placement year tutor<br>
 </p>
 
