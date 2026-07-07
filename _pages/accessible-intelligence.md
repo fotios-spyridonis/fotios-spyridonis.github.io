@@ -50,7 +50,7 @@ author_profile: true
 
 <h3>🤝 Human Agency</h3>
 
-<p>Ensuring people remain active decision-makers through meaningful supervision, intervention, and control.</p>
+<p>Ensuring people remain active decision-makers through meaningful supervision, intervention, and control tailored to diverse user needs.</p>
 
 </div>
 
@@ -58,7 +58,7 @@ author_profile: true
 
 <h3>🔍 Transparency</h3>
 
-<p>Developing explanations and interactions that help people understand and interrogate AI behaviour.</p>
+<p>Developing explanations and interactions that help people with diverse needs and abilities understand and interrogate AI behaviour.</p>
 
 </div>
 
@@ -66,7 +66,7 @@ author_profile: true
 
 <h3>🛡 Trust</h3>
 
-<p>Supporting appropriate trust through transparency, evaluation, calibration, and effective interaction design.</p>
+<p>Supporting appropriate trust for diverse user needs and abilities through transparency, evaluation, calibration, and effective interaction design.</p>
 
 </div>
 
@@ -90,7 +90,7 @@ author_profile: true
 
 <h3>Human-AI Interaction</h3>
 
-<p>Designing interactions that enable effective collaboration between people and intelligent systems.</p>
+<p>Designing interactions that enable effective and accessible collaboration between people and intelligent systems.</p>
 
 </div>
 
@@ -106,7 +106,7 @@ author_profile: true
 
 <h3>Human Agency</h3>
 
-<p>Investigating supervision, intervention, contestability, reversibility, and meaningful human control.</p>
+<p>Investigating supervision, intervention, contestability, reversibility, and meaningful human control for people with diverse needs and abilities.</p>
 
 </div>
 
@@ -114,7 +114,7 @@ author_profile: true
 
 <h3>Agentic AI</h3>
 
-<p>Understanding how increasingly autonomous AI systems can remain aligned with human goals and oversight.</p>
+<p>Understanding how increasingly autonomous AI systems can remain aligned with diverse human goals, needs and oversight.</p>
 
 </div>
 
@@ -174,13 +174,6 @@ author_profile: true
 
 </div>
 
-<div class="research-card">
-
-<h3>Human-AI Interaction</h3>
-
-<p>Research investigating trust, agency, explainability, supervision, and evaluation within intelligent interactive systems.</p>
-
-</div>
 
 </div>
 
@@ -188,41 +181,13 @@ author_profile: true
 
 <h2>Publications</h2>
 
-<p>Selected publications contributing to the Accessible Intelligence research agenda are available through the <a href="/publications/">Publications</a> page. This section will continue to grow as the initiative develops.</p>
+<p>Selected publications contributing to the Accessible Intelligence research agenda will be available through the <a href="/publications/">Publications</a> page. This section will continue to grow as the initiative develops.</p>
 
 <hr>
 
-<h2>Research Software</h2>
-
-<div class="card-grid">
-
-<div class="research-card">
-
-<h3>Accessible Intelligence Framework</h3>
-
-<p>Conceptual models, evaluation frameworks, and supporting research resources.</p>
 
 </div>
 
-<div class="research-card">
-
-<h3>XR Accessibility Toolkit</h3>
-
-<p>Open research software supporting accessibility evaluation for immersive technologies.</p>
-
-</div>
-
-<div class="research-card">
-
-<h3>Future Resources</h3>
-
-<p>Datasets, benchmarks, developer tools, educational resources, and open-source software supporting Accessible Intelligence.</p>
-
-</div>
-
-</div>
-
-<hr>
 
 <h2>Join the Initiative</h2>
 
