@@ -12,7 +12,7 @@ main:
     url: /research/
 
   - title: "Accessible Intelligence"
-  url: /accessible-intelligence/
+    url: /accessible-intelligence/
 
   - title: "Research software"
     url: /software/    
