@@ -21,11 +21,11 @@ author_profile: true
 
 <p>
 • Human-AI Interaction<br>
-• Advanced Topics in Computer Science and Business Computing - lecture on Extended Reality
-• Level 5 Group Project - tutor for group projects
-• Final Year Project supervisor
-• MSc Dissertation supervisor
-• Placement year tutor
+• Advanced Topics in Computer Science and Business Computing<br>
+• Level 5 Group Project<br>
+• Final Year Project<br>
+• MSc Dissertation supervisor<br>
+• Placement year tutor<br>
 </p>
 
 </div>
@@ -36,75 +36,96 @@ author_profile: true
 
 <div class="research-card">
 
-<h3>Human-AI Interaction</h3>
+<h3>Human-AI Interaction (Level 7)</h3>
 
 <p>
 <strong>Programme:</strong> MSc Human-AI Interaction<br>
-<strong>Role:</strong> Programme Lead & Module Leader
+<strong>Role:</strong> Programme Lead & Module Co-Leader
 </p>
 
 <p>
-Developed and lead the MSc Human-AI Interaction programme, preparing graduates to design, develop, and critically evaluate intelligent interactive systems. Topics include Human-AI collaboration, explainability, trust, human agency, evaluation methods, agentic AI, and responsible AI design through research-led and project-based learning.
+Developed and leading the MSc Human-AI Interaction programme, preparing graduates to design, develop, and critically evaluate intelligent interactive systems. Topics include Human-AI collaboration, explainability, trust, human agency, evaluation methods, agentic AI, and responsible AI design through research-led and project-based learning.
 </p>
 
 </div>
 
+<div class="research-card">
 
+<h3>Advanced Topics in Computer Science and Business Computing (Level 6)</h3>
+
+<p>
+<strong>Programme:</strong> BSc Computer Science & BSc Business Computing<br>
+<strong>Role:</strong> Module team
+</p>
+<p>
+Introduces a range of advanced topics including extended reality, artificial intelligence, database systems and software engineering. 
+</p>
+
+</div>
 
 
 <div class="research-card">
 
-<h3>Artificial Intelligence</h3>
+<h3>Level 5 Group Project</h3>
 
 <p>
-<strong>Programme:</strong> MSc Human-AI Interaction<br>
-<strong>Role:</strong> Module Leader
+<strong>Programme:</strong> BSc Computer Science & BSc Business Computing<br>
+<strong>Role:</strong> Group Tutor
 </p>
 
 <p>
-Introduces the foundations of artificial intelligence, including intelligent systems, machine learning, reasoning, ethics, and responsible AI, while emphasising AI as part of broader human-centred interactive systems.
+Covers designing, building and managing a web application project, emulating an environment that is similar to a small, innovative start-up.
 </p>
 
 </div>
-
-
-
 
 <div class="research-card">
 
-<h3>Human-Computer Interaction</h3>
+<h3>Final Year Project (Level 6)</h3>
 
 <p>
-<strong>Programme:</strong> BSc Computer Science<br>
-<strong>Role:</strong> Module Leader
+<strong>Programme:</strong> BSc Computer Science & BSc Business Computing<br>
+<strong>Role:</strong> Supervisor
 </p>
 
 <p>
-Covers interaction design, usability engineering, accessibility, prototyping, user-centred design, and evaluation methods, providing students with the foundations for designing effective interactive systems.
+Supervising student final year projects for the completion of their undergraduate dissertation requirements.
 </p>
 
 </div>
-
-
-
 
 <div class="research-card">
 
-<h3>Educational Leadership</h3>
+<h3>MSc Dissertation (Level 7)</h3>
 
 <p>
-<strong>Role:</strong> Programme Lead
+<strong>Programme:</strong> MSc Human-AI Interaction, MSc Data Science and Analytics & MSc Artificial Intelligence<br>
+<strong>Role:</strong> Supervisor
 </p>
 
 <p>
-Lead the strategic development and delivery of the MSc Human-AI Interaction programme, including curriculum design, programme development, quality assurance, and the integration of research-led teaching across the degree.
+Supervising Master Dissertation projects for the completion of their postgraduate dissertation requirements.
 </p>
 
 </div>
 
+<div class="research-card">
+
+<h3>Work Placement (Level 5)</h3>
+
+<p>
+<strong>Programme:</strong>BSc Computer Science & BSc Business Computing<<br>
+<strong>Role:</strong> Tutor
+</p>
+
+<p>
+Visiting placement students at their workplace and supporting them throughout their placement year. 
+</p>
+
 </div>
 
 
+</div>
 
 
 <h2>Research Supervision</h2>
@@ -116,7 +137,7 @@ Lead the strategic development and delivery of the MSc Human-AI Interaction prog
 <h3>Doctoral Research</h3>
 
 <p>
-Supervising PhD research in Human-AI Interaction, Accessible Intelligence, immersive technologies, accessibility, explainable AI, intelligent interactive systems, and human-centred AI.
+Supervising PhD research in Human-AI Interaction, Accessible Intelligence, immersive technologies, accessibility, and intelligent interactive systems.
 </p>
 
 </div>
@@ -126,7 +147,7 @@ Supervising PhD research in Human-AI Interaction, Accessible Intelligence, immer
 <h3>Master's Dissertations</h3>
 
 <p>
-Supervising MSc research projects across artificial intelligence, Human-AI Interaction, accessibility, XR, interactive systems, machine learning, and emerging technologies.
+Supervising MSc research projects across artificial intelligence, Human-AI Interaction, accessibility, XR, interactive systems, and emerging technologies.
 </p>
 
 </div>
