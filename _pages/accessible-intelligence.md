@@ -186,9 +186,6 @@ author_profile: true
 <hr>
 
 
-</div>
-
-
 <h2>Join the Initiative</h2>
 
 <div class="card-grid">
