@@ -23,7 +23,7 @@ repository               : "fotios-spyridonis/fotios-spyridonis.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Department of Computer Science Fotios Spyridonis 3"
+  avatar           : "Department of Computer Science Fotios Spyridonis 3.jpg"
   name             : "Dr Fotis Spyridonis"
   pronouns         : # example: "she/her"  
   bio              : "Senior Lecturer in Computer Science. Researching Human-AI Interaction, Accessible Intelligence, and Immersive Technologies."
