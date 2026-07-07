@@ -11,6 +11,9 @@ main:
   - title: "Research"
     url: /research/
 
+  - title: "Accessible Intelligence"
+  url: /accessible-intelligence/
+
   - title: "Research software"
     url: /software/    
 
