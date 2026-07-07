@@ -161,7 +161,7 @@
     object-fit: cover;
     object-position: center;
 
-    border-radius: 50%;
+    border-radius: 80%;
 
     @include breakpoint($large) {
       padding: 5px;
