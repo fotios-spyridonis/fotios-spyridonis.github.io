@@ -17,12 +17,6 @@ author_profile: true
 <h2>Teaching at a Glance</h2>
 
 
-
-
-
-
-
-
 <div class="research-card">
 
 <p>
@@ -35,21 +29,6 @@ author_profile: true
 </p>
 
 </div>
-
-
-
-
-<div class="research-card">
-
-<h3>Research Supervision</h3>
-
-<p><strong>Doctoral & Master's Research</strong></p>
-
-<p>Supervising PhD and MSc research across Human-AI Interaction, AI, accessibility, XR, and intelligent interactive systems.</p>
-
-</div>
-
-
 
 
 
@@ -152,22 +131,11 @@ Supervising MSc research projects across artificial intelligence, Human-AI Inter
 
 </div>
 
-<div class="research-card">
 
-<h3>Student Research Projects</h3>
-
-<p>
-Supporting students through research-led projects combining software engineering, user-centred evaluation, experimentation, interdisciplinary collaboration, and publication-quality research.
-</p>
 
 </div>
 
-</div>
-
-<h2>Teaching Approach</h2>
-
-<p>My teaching is closely integrated with my research, enabling students to engage with contemporary challenges in Human-AI Interaction, artificial intelligence, accessibility, and immersive technologies. Students are encouraged to think critically, design responsibly, develop practical technical skills, and evaluate emerging technologies through authentic research problems and project-based learning.</p>
 
 <h2>Prospective Students</h2>
 
-<p>I welcome enquiries from prospective MSc and PhD students interested in Human-AI Interaction, artificial intelligence, accessibility, immersive technologies, and intelligent interactive systems. Information about research topics, supervision, and collaboration opportunities is available on the <a href="/opportunities/">Opportunities</a> page.</p>
+<p>I welcome enquiries from prospective MSc and PhD students interested in Human-AI Interaction, accessibility, immersive technologies, and intelligent interactive systems. Information about research topics, supervision, and collaboration opportunities is available on the <a href="/opportunities/">Opportunities</a> page.</p>
