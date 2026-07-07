@@ -249,3 +249,14 @@
   background: var(--primary);
   color: #ffffff !important;
 }
+
+.sidebar .author__avatar img {
+  width: 175px !important;
+  height: 175px !important;
+  max-width: none !important;
+  object-fit: contain !important;
+  object-position: center center !important;
+  border-radius: 50% !important;
+  background: #ffffff !important;
+}
+
