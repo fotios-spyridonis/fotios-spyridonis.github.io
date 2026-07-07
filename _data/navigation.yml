@@ -14,8 +14,8 @@ main:
   - title: "Accessible Intelligence"
     url: /accessible-intelligence/
 
-  - title: "Research software"
-    url: /software/    
+ # - title: "Research software"
+  #  url: /software/    
 
   - title: "Publications"
     url: /publications/    
