@@ -31,7 +31,7 @@ Brunel University of London</p>
 Behaviour & Information Technology</p>
 
 <p>Associate Editor<br>
-JMIR Serious Games</p>
+Virtual Reality journal</p>
 
 </div>
 
@@ -39,6 +39,8 @@ JMIR Serious Games</p>
 <h3>Professional Service</h3>
 
 <p>Co-lead, Interactive Multimedia Systems Research Group</p>
+
+<p> Member of the Innovate UK Immersive Tech Network's <a href="https://iuk.immersivetechnetwork.org/working-groups/accessibility/"> Accessibility Working Group </a> </p>
 
 <p>Conference organisation, programme committees, journal reviewing, and grant reviewing.</p>
 
