@@ -10,7 +10,7 @@ author_profile: true
 
 <p>I teach across undergraduate and postgraduate programmes, combining research, practical development, and critical thinking to prepare students for careers in Human-AI Interaction and Computer Science.</p>
 
-<p>I am also the Programme Lead for our MSc Human-AI Interaction</p>
+<p>I am also the Programme Lead for our <a href="https://www.brunel.ac.uk/study/courses/human-ai-interaction-msc"> MSc Human-AI Interaction </a> </p>
 
 </div>
 
