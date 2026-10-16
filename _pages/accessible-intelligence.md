@@ -11,10 +11,10 @@ header:
 
 <h1>Accessible Intelligence</h1>
 
-<p class="hero-subtitle">
+<h2>
   Making AI-generated intelligence accessible,
   understandable and actionable for diverse people.
-</p>
+</h2>
 
 <p>Accessible Intelligence is an integrative perspective that connects research in accessibility, human-centred AI, explainable AI and responsible AI. It foregrounds whether people with diverse abilities, knowledge, languages and circumstances can meaningfully access, interpret, evaluate, use and influence AI-generated intelligence.</p>
 
