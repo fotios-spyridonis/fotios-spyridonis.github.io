@@ -14,7 +14,7 @@ author_profile: true
 
 <p style="font-size: 0.875rem; color: #666;">
   This perspective is developed through the research and writing of
-  <strong>Fotios Spyridonis</strong>, Senior Lecturer in Computer Science
+  <strong>Fotios Spyridonis</strong>, Senior Lecturer (Associate Professor) in Computer Science
   at Brunel University of London.
 </p>
 
