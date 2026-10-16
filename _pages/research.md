@@ -16,7 +16,7 @@ author_profile: true
 
 <h2>Research Vision</h2>
 
-<p>My long-term vision is to shape the future of human interaction with intelligent and immersive technologies by developing theories, methods, and open technologies that enable people to effectively understand, trust, control, and benefit from increasingly capable digital systems.</p>
+<p>My research aims to advance accessible and human-centred intelligent and immersive technologies through empirical investigation, design methods and open research tools. I am particularly interested in how people with diverse abilities can understand, evaluate, control and benefit from increasingly capable digital systems.</p>
 
 <h2>Research Themes</h2>
 
@@ -29,7 +29,7 @@ author_profile: true
 
 <div class="research-card">
 <h3>Accessible Intelligence</h3>
-<p>Developing frameworks, methods, and technologies that make AI-generated intelligence accessible and beneficial to diverse users.</p>
+<p>Connecting research in accessibility, human-centred AI, explainable AI and responsible AI to examine how people with diverse abilities can meaningfully understand, evaluate and influence AI-generated intelligence.</p>
 </div>
 
 <div class="research-card">
