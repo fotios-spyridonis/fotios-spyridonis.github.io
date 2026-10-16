@@ -33,11 +33,7 @@ header:
 
 <h2 id="why">Why Accessible Intelligence</h2>
 
-<p>AI can remove longstanding accessibility barriers while introducing new ones. An AI system may provide an accessible interface but produce explanations that are difficult to interpret. An intelligent assistant may reduce physical interaction demands while introducing new challenges for supervision and intervention. A recommendation may be clearly presented without giving someone sufficient information or opportunity to question it.
-
-**Accessible interfaces do not necessarily make AI-generated intelligence accessible.**
-
-Research in accessible computing, human-centred AI, explainable AI and responsible AI already addresses important aspects of these challenges. Accessible Intelligence connects these contributions by considering how accessibility affects meaningful participation throughout AI-mediated interaction.</p>
+<p>AI can remove longstanding accessibility barriers while introducing new ones. An AI system may provide an accessible interface but produce explanations that are difficult to interpret. An intelligent assistant may reduce physical interaction demands while introducing new challenges for supervision and intervention. A recommendation may be clearly presented without giving someone sufficient information or opportunity to question it. Accessible interfaces do not necessarily make AI-generated intelligence accessible. Research in accessible computing, human-centred AI, explainable AI and responsible AI already addresses important aspects of these challenges. Accessible Intelligence connects these contributions by considering how accessibility affects meaningful participation throughout AI-mediated interaction.</p>
   
 <hr>
 
