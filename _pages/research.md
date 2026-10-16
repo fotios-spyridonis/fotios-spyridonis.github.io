@@ -52,7 +52,6 @@ author_profile: true
 <h2>Current Projects</h2>
 
 <ul>
-<li>Accessible Intelligence Initiative</li>
 <li>XR Accessibility Toolkit</li>
 <li>Human-AI Interaction and evaluation</li>
 <li>Accessibility in immersive technologies</li>
