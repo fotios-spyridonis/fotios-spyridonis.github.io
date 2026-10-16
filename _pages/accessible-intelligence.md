@@ -8,7 +8,10 @@ author_profile: true
 
 <h1>Accessible Intelligence</h1>
 
-<h3>Making AI-generated intelligence accessible, understandable and actionable for diverse people.</h3>
+<p class="hero-subtitle">
+  Making AI-generated intelligence accessible,
+  understandable and actionable for diverse people.
+</p>
 
 <p>Accessible Intelligence is an integrative perspective that connects research in accessibility, human-centred AI, explainable AI and responsible AI. It foregrounds whether people with diverse abilities, knowledge, languages and circumstances can meaningfully access, interpret, evaluate, use and influence AI-generated intelligence.</p>
 
@@ -49,7 +52,7 @@ Research in accessible computing, human-centred AI, explainable AI and responsib
 
 <h3>📄 Meaningful Information</h3>
 
-<p>Designing AI systems that support people with diverse abilities, needs, expertise, and interaction preferences.</p>
+<p>Making AI-generated descriptions, summaries, explanations and recommendations accessible and useful in context.</p>
 
 </div>
 
@@ -116,7 +119,7 @@ Research in accessible computing, human-centred AI, explainable AI and responsib
 
 <h2>Publications</h2>
 
-<p>Selected publications contributing to Accessible Intelligence will be available through the <a href="/publications/">Publications</a> page.</p>
+<p>My research in digital accessibility, Human-AI interaction and inclusive interactive technologies informs the Accessible Intelligence perspective. Selected related publications are available on my <a href="/publications/">Publications</a> page.</p>
 
 <hr>
 
@@ -129,7 +132,7 @@ Research in accessible computing, human-centred AI, explainable AI and responsib
 
 <h3>Researchers</h3>
 
-<p>Collaborative research, interdisciplinary partnerships, and joint grant applications.</p>
+<p>Interdisciplinary collaboration across accessibility, Human–AI interaction and responsible AI.</p>
 
 </div>
 
@@ -137,7 +140,7 @@ Research in accessible computing, human-centred AI, explainable AI and responsib
 
 <h3>Students</h3>
 
-<p>PhD opportunities, MSc dissertations, internships, and research projects.</p>
+<p>Opportunities to explore accessible AI through PhD research, dissertations and student projects.</p>
 
 </div>
 
@@ -145,15 +148,7 @@ Research in accessible computing, human-centred AI, explainable AI and responsib
 
 <h3>Industry</h3>
 
-<p>Knowledge exchange, consultancy, collaborative innovation, and industrial research partnerships.</p>
-
-</div>
-
-<div class="research-card">
-
-<h3>Funding</h3>
-
-<p>Developing collaborative projects that advance the future of accessible, trustworthy, and human-centred AI.</p>
+<p>Collaboration on inclusive AI systems, accessibility evaluation and human-centred technology design.</p>
 
 </div>
 
