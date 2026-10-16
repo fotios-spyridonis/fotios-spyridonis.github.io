@@ -27,9 +27,11 @@ author_profile: true
 
 <h2 id="why">Why Accessible Intelligence</h2>
 
-<p>As artificial intelligence increasingly generates explanations, recommendations, predictions and decisions, accessibility must concern more than the interfaces through which people interact with these systems. Accessible Intelligence foregrounds whether people with diverse abilities, knowledge, languages and circumstances can meaningfully access, interpret, evaluate, use and influence AI-generated intelligence. </p>
+<p>AI can remove longstanding accessibility barriers while introducing new ones. An AI system may provide an accessible interface but produce explanations that are difficult to interpret. An intelligent assistant may reduce physical interaction demands while introducing new challenges for supervision and intervention. A recommendation may be clearly presented without giving someone sufficient information or opportunity to question it.
 
-<p>The perspective builds upon established scholarship rather than proposing a new framework or research field. Its purpose is to connect accessibility concerns across AI interaction, generated information, human judgement and agency.</p>
+**Accessible interfaces do not necessarily make AI-generated intelligence accessible.**
+
+Research in accessible computing, human-centred AI, explainable AI and responsible AI already addresses important aspects of these challenges. Accessible Intelligence connects these contributions by considering how accessibility affects meaningful participation throughout AI-mediated interaction.</p>
   
 <hr>
 
