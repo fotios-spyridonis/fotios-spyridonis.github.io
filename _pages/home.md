@@ -30,7 +30,7 @@ author_profile: true
 
 <div class="research-card">
 <h3>Accessible Intelligence</h3>
-<p>Making AI-generated intelligence accessible, understandable, controllable, and beneficial for diverse users.</p>
+<p>Connecting accessibility, human-centred AI and responsible AI to understand how people with diverse abilities can meaningfully engage with intelligent systems.</p>
 </div>
 
 <div class="research-card">
