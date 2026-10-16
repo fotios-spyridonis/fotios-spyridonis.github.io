@@ -2,6 +2,9 @@
 title: "Accessible Intelligence"
 permalink: /accessible-intelligence/
 author_profile: true
+classes: wide
+header:
+  overlay_image:
 ---
 
 <div class="hero-box">
