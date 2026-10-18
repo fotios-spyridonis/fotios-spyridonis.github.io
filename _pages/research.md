@@ -29,7 +29,7 @@ author_profile: true
 
 <div class="research-card">
 <h3>Accessible Intelligence</h3>
-<p>Connecting research in accessibility, human-centred AI, explainable AI and responsible AI to examine how people with diverse abilities can meaningfully understand, evaluate and influence AI-generated intelligence.</p>
+<p>An integrative perspective examining whether accessible interaction, meaningful understanding and verification, and exercisable human agency work together in AI-mediated computing.</p>
 </div>
 
 <div class="research-card">
