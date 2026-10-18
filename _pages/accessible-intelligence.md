@@ -33,7 +33,7 @@ header:
 
 <h2 id="why">Why Accessible Intelligence</h2>
 
-<p>AI can remove longstanding accessibility barriers while introducing new ones. An AI system may provide an accessible interface but produce explanations that are difficult to interpret. An intelligent assistant may reduce physical interaction demands while introducing new challenges for supervision and intervention. A recommendation may be clearly presented without giving someone sufficient information or opportunity to question it. Accessible interfaces do not necessarily make AI-generated intelligence accessible. Research in accessible computing, human-centred AI, explainable AI and responsible AI already addresses important aspects of these challenges. Accessible Intelligence connects these contributions by considering how accessibility affects meaningful participation throughout AI-mediated interaction.</p>
+<p>AI can remove longstanding accessibility barriers while introducing new ones. An AI system may provide an accessible interface but produce explanations that are difficult to interpret. An intelligent assistant may reduce physical interaction demands while introducing new challenges for supervision and intervention. A recommendation may be clearly presented without giving someone sufficient information or opportunity to question it. Accessible interfaces do not necessarily make AI-generated intelligence accessible. Research in accessible computing, human-centred AI, explainable AI and responsible AI already addresses important aspects of these challenges. Accessible Intelligence connects these contributions by considering how accessibility affects meaningful participation throughout AI-mediated interaction. Its particular emphasis is on whether accessible interaction, meaningful understanding and verification, and exercisable human agency work together in practice. It builds on established scholarship and standards rather than proposing a new research field or framework.</p>
   
 <hr>
 
@@ -43,7 +43,7 @@ header:
 
 <h3>♿ Accessible Interaction</h3>
 
-<p>Ensuring people can engage with AI systems through accessible interfaces and interaction methods suited to their abilities and needs.</p>
+<p>Accessing and operating AI systems through suitable interfaces, modalities and assistive technologies.</p>
 
 </div>
 
@@ -51,7 +51,7 @@ header:
 
 <h3>📄 Meaningful Information</h3>
 
-<p>Making AI-generated descriptions, summaries, explanations and recommendations accessible and useful in context.</p>
+<p>Ensuring generated descriptions, summaries and recommendations are relevant and useful in context.</p>
 
 </div>
 
@@ -59,19 +59,25 @@ header:
 
 <h3>🧠 Understanding & Evaluation</h3>
 
-<p>Supporting diverse users in interpreting AI outputs, recognising limitations and making informed judgements.</p>
+<p>Enabling people to interpret AI outputs, recognise limitations and check consequential information.</p>
 
 </div>
 
 <div class="research-card">
 
-<h3>👤 Human Agency</h3>
+<h3>👤 Exercisable Human Agency</h3>
 
-<p>Enabling people to question, correct, redirect or challenge AI behaviour through accessible mechanisms.</p>
+<p>Supporting accessible correction, intervention, alternatives and contestability in practice.</p>
+
+</div>
 
 </div>
 
-</div>
+<hr>
+
+<h3>From individual capabilities to meaningful participation</h3>
+
+<p>An AI system may have an accessible interface, provide understandable explanations and offer mechanisms for correction or appeal. Yet these capabilities may not work effectively together. For example, a blind user may access an AI-generated image description but lack an accessible way to verify an important detail. Similarly, a person may understand an AI recommendation without having a practical opportunity to challenge it. Accessible Intelligence foregrounds this relationship: not simply whether individual accessibility, explanation and agency mechanisms exist, but whether they collectively support meaningful participation. This perspective builds on existing research and emerging standards on accessible and equitable AI systems.</p>
 
 <hr>
 
